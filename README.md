@@ -12,4 +12,6 @@ This project is a user interactive statistical analysis for US bikeshare DATA. I
 * CSV data files(not include in this repo)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[GitHub](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+[GitHub](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mode.html)
+[GitHub](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html)
