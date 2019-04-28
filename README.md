@@ -9,7 +9,7 @@ This project is a user interactive statistical analysis for US bikeshare DATA. I
 
 ### Files used for this project
 * bikeshare_2.py
-* CSV data files(not include in this repo)
+* CSV data files for washigton,new york city, chicago(not include in this repo)
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
