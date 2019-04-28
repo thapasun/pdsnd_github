@@ -22,7 +22,7 @@ def get_filters():
         if city in ['chicago','new york city','washington']:
             break
         else:
-            print('your choice is invalid.')
+            print('Your choice is invalid.Please enter a valid city.')
 
     # get user input for month (all, january, february, ... , june)
     while True:
@@ -173,10 +173,10 @@ def raw_data_view(df):
 
     N=0
     while True:
-        if raw_data=='no':
+        if raw_data.lower()=='no':
             return
 
-        if raw_data=='yes':
+        if raw_data.lower()=='yes':
 
             print(df.iloc[N:N+5,:])
             N=N+5
